@@ -1,7 +1,7 @@
 # movie_reccomend
 SUMMARY
 
-Данный проект разработан в рамках Big Data Analysis для создания системы рекомендаций фильмов для онлайн-кинотеатра на основании оценок пользователей
+Данный проект разработан в рамках Big Data Analysis для создания системы рекомендаций фильмов для онлайн-кинотеатра на основании оценок пользователей + часть работы с pyspark(для демонстрации)
 ======
 DETAILED DESCRIPTIONS OF DATA FILES:
 u.data.csv -- The full u data set, 100000 ratings by 943 users on 1682 items.
